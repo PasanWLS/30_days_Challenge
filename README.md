@@ -1,7 +1,8 @@
 # 30_days_Challenge
 30_days_Challenge
 
-1. 7/3/2026 - Google Flow
+1. 7/3/2026 - Google Flow (AI Video)
+2. 7/4/2026 - Gemini Omni (Video Model)
 
 -------------------------------------------------------------------------------------------------------------------
 ### Google Flow (7/3/2026)
