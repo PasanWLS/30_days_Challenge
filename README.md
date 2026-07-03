@@ -40,7 +40,7 @@ Generate Story Board --> Approve
 Summary -
 හඳුන්වාදීම සහ Google Flow වෙත පිවිසීම, නව ප්‍රොජෙක්ට් එකක් ආරම්භ කිරීම, ඉන්ටර්ෆේස් එක සහ ක්‍රෙඩිට් ක්‍රමය (Free vs. Pro), පින්තූර නිර්මාණය කිරීමේ සැකසුම් සහ ප්‍රොම්ප්ට් භාවිතය, සාදාගත් පින්තූර වෙනස් කිරීම (Follow-up Prompts), එකම කැරැක්ටර් එක වෙනත් දර්ශන සඳහා භාවිත කිරීම, වීඩියෝ නිර්මාණය කිරීමේ සැකසුම් (Text-to-Video), පින්තූරයක් වීඩියෝවක් බවට පත් කිරීම (Image-to-Video), වීඩියෝ ක්ලිප් එකතු කිරීම සහ එඩිට් කිරීම (Stitching & Trimming), කතා කරන ඇවටාර් (Avatar) කෙනෙක් නිර්මාණය කිරීම, Agent Mode එක භාවිත කර දර්ශන පෙළක් (Storyboard) නිර්මාණය කිරීම
 
-Tutorial Vide0 - https://www.youtube.com/watch?v=XHttzy3-dRo
+Tutorial Vide - https://www.youtube.com/watch?v=XHttzy3-dRo
 📌 Google Flow Access Link: https://labs.google/fx/tools/flow
 -----------------------------------------------------------------------------------------------------------------------------------------
 
