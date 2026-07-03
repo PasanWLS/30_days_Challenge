@@ -45,26 +45,26 @@ Tutorial Vide - https://www.youtube.com/watch?v=XHttzy3-dRo
 📌 Google Flow Access Link: https://labs.google/fx/tools/flow
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-### Gemini Omni (Video Model) (7/4/2026)
+### Gemini Omni (Video Model) (7/4/2026)<br/>
 
-Google I/O 2026 සහ Gemini Omni ගැන හැඳින්වීම
-Gemini UI එකේ අලුත් වෙනස්කම් සහ Thinking Levels
-Gemini Omni වලින් AI Video එකක් Create කරන්නේ කොහොමද?
-Mobile සහ Web App එකෙන් Custom Avatar Option එක ගන්න විදිහ
-QR Code එකෙන් Selfie Video එකක් අරන් Avatar එකක් හදමු
-පළවෙනි AI Avatar Video එක Generate කරලා බලමු
-Prompt එකක් දීලා Generated Video එක Edit කරගන්න විදිහ
-Advanced Prompts සහ Cinematic Video Elements (Moving Train)
-Outer Space Scenario එකක් සහ Chat Best Practices
-Character Reference එකක් නැතුව Random AI Character එකක් හදමු
-Gemini Omni Video Templates (Meme Me Option) භාවිතය
-Google Flow එක ඇතුළෙන් Gemini Omni භාවිත කරමු (10s Videos)
-Gemini Omni එකෙන් සිංහල Text-to-Speech (TTS) වීඩියෝ හදමු
-Google Flow වලින් Consistent AI Characters (Jane) හදන විදිහ
-Character එකට Voice එකක් සහ Clothing Patterns දෙන විදිහ
-එකම AI Video එකකට Characters දෙන්නෙක් (Multi-Character) දාමු
-Gemini Omni vs Google VEO 3.1 Fast (සංසන්දනය)
-Tricky Prompt එකක් Test කිරීම (Coding Coffee Design)
+Google I/O 2026 සහ Gemini Omni ගැන හැඳින්වීම<br/>
+Gemini UI එකේ අලුත් වෙනස්කම් සහ Thinking Levels<br/>
+Gemini Omni වලින් AI Video එකක් Create කරන්නේ කොහොමද?<br/>
+Mobile සහ Web App එකෙන් Custom Avatar Option එක ගන්න විදිහ<br/>
+QR Code එකෙන් Selfie Video එකක් අරන් Avatar එකක් හදමු<br/>
+පළවෙනි AI Avatar Video එක Generate කරලා බලමු<br/>
+Prompt එකක් දීලා Generated Video එක Edit කරගන්න විදිහ<br/>
+Advanced Prompts සහ Cinematic Video Elements (Moving Train)<br/>
+Outer Space Scenario එකක් සහ Chat Best Practices<br/>
+Character Reference එකක් නැතුව Random AI Character එකක් හදමු<br/>
+Gemini Omni Video Templates (Meme Me Option) භාවිතය<br/>
+Google Flow එක ඇතුළෙන් Gemini Omni භාවිත කරමු (10s Videos)<br/>
+Gemini Omni එකෙන් සිංහල Text-to-Speech (TTS) වීඩියෝ හදමු<br/>
+Google Flow වලින් Consistent AI Characters (Jane) හදන විදිහ<br/>
+Character එකට Voice එකක් සහ Clothing Patterns දෙන විදිහ<br/>
+එකම AI Video එකකට Characters දෙන්නෙක් (Multi-Character) දාමු<br/>
+Gemini Omni vs Google VEO 3.1 Fast (සංසන්දනය)<br/>
+Tricky Prompt එකක් Test කිරීම (Coding Coffee Design)<br/>
 Pro vs Free Limits සහ Google Flow එකෙන් උපරිම Control එකක් ගන්න විදිහ <br/>
 
 mekedi me model eka direct nathuwa google flow ekata dagena karanna kiyala thama kiyanne ethakota lesi kiyala.
