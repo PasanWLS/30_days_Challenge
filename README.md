@@ -1,11 +1,11 @@
 # 30_days_Challenge
 30_days_Challenge
 
-1. 7/3/2026 - Google Flow (AI Video)
+1. 7/3/2026 - Google Flow (AI Video Create)
 2. 7/4/2026 - Gemini Omni (Video Model)
 
 -------------------------------------------------------------------------------------------------------------------
-### Google Flow (7/3/2026)
+### Google Flow (AI Video Create) (7/3/2026)
 
 + New Project
 First Remove Agent in click in chat
@@ -45,6 +45,36 @@ Tutorial Vide - https://www.youtube.com/watch?v=XHttzy3-dRo
 📌 Google Flow Access Link: https://labs.google/fx/tools/flow
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+### Gemini Omni (Video Model) (7/4/2026)
+
+Google I/O 2026 සහ Gemini Omni ගැන හැඳින්වීම
+Gemini UI එකේ අලුත් වෙනස්කම් සහ Thinking Levels
+Gemini Omni වලින් AI Video එකක් Create කරන්නේ කොහොමද?
+Mobile සහ Web App එකෙන් Custom Avatar Option එක ගන්න විදිහ
+QR Code එකෙන් Selfie Video එකක් අරන් Avatar එකක් හදමු
+පළවෙනි AI Avatar Video එක Generate කරලා බලමු
+Prompt එකක් දීලා Generated Video එක Edit කරගන්න විදිහ
+Advanced Prompts සහ Cinematic Video Elements (Moving Train)
+Outer Space Scenario එකක් සහ Chat Best Practices
+Character Reference එකක් නැතුව Random AI Character එකක් හදමු
+Gemini Omni Video Templates (Meme Me Option) භාවිතය
+Google Flow එක ඇතුළෙන් Gemini Omni භාවිත කරමු (10s Videos)
+Gemini Omni එකෙන් සිංහල Text-to-Speech (TTS) වීඩියෝ හදමු
+Google Flow වලින් Consistent AI Characters (Jane) හදන විදිහ
+Character එකට Voice එකක් සහ Clothing Patterns දෙන විදිහ
+එකම AI Video එකකට Characters දෙන්නෙක් (Multi-Character) දාමු
+Gemini Omni vs Google VEO 3.1 Fast (සංසන්දනය)
+Tricky Prompt එකක් Test කිරීම (Coding Coffee Design)
+Pro vs Free Limits සහ Google Flow එකෙන් උපරිම Control එකක් ගන්න විදිහ <br/>
+
+mekedi me model eka direct nathuwa google flow ekata dagena karanna kiyala thama kiyanne ethakota lesi kiyala.
+Avatar eka add karanna. ethakota nice ekata enawa.
+
+🔗 Gemini chat --> + Mark click --> Create Video
+🔗 Google Flow App Link: https://labs.google/fx/tools/flow
+Tutorial LInk - https://www.youtube.com/watch?v=4BvzJSfjI-8
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
