@@ -4,6 +4,7 @@
 1. 7/3/2026 - Google Flow (AI Video Create)
 2. 7/4/2026 - Gemini Omni (Video Model)
 3. 7/4/2026 - Google Antigravity (IDE)
+4. 7/5/2026 - N8N (Booking Agent Development)
 
 -------------------------------------------------------------------------------------------------------------------
 ### Google Flow (AI Video Create) (7/3/2026)
